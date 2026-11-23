@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: launch-plan-small-budget
+expected_outcome: |
+  A launch plan grounded in the shop's unit economics, with a simple consolidated structure that fits a small budget, tracking set up first, and honest expectations given as ranges.
